@@ -1,4 +1,4 @@
-# Hello 👋, I'm Joan
+<h1 style="text-align:centre;">Hello 👋, I'm Joan</h1>
 
 ## Passionate and Self-Learning DevOps Engineer Zombified 🧟‍♂️
 

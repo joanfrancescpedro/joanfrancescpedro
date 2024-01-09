@@ -58,7 +58,7 @@ Welcome to my GitHub Repository! Here, you'll discover a collection of projects 
 <div style="text-align:center">
   <p align="center">
     <a style="padding-right: 20px;" href="https://www.linkedin.com/in/jfpedrogarcia"><img alt="LinkedIn" src="https://img.shields.io/badge/JOAN%20FRANCESC%20PEDRO%20GARCIA-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-    <a href="https://www.github.com/socunzombi/"><img alt="Github" src="https://img.shields.io/badge/SOCUNZOMBI-6e5494?style=for-the-badge&logo=Github&logoColor=white"></a>
+    <a href="https://www.github.com/joanfrancescpedro/"><img alt="Github" src="https://img.shields.io/badge/JOAN%20FRANCESC%20PEDRO-6e5494?style=for-the-badge&logo=Github&logoColor=white"></a>
     <a href="https://www.instagram.com/socunzombi/"><img alt="Instagram" src="https://img.shields.io/badge/SOCUNZOMBI-C13584?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   </p>
   <p align="center">

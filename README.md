@@ -1,6 +1,6 @@
 # Greetings my friend 👋, I'm Joan
 
-## Passionate and Self-Learning DevOps Engineer Zombified 🧟‍♂️
+## Passionate and Self-Learning DevOps Engineer
 
 Welcome to my GitHub Repository! Here, you'll discover a collection of projects that reflect both my learning journey and hands-on experiences in the dynamic realm of DevOps. Join me as I navigate through the evolving landscape, striving for mastery in the world of DevOps. Feel free to explore and connect!
 

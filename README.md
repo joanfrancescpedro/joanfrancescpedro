@@ -11,30 +11,23 @@ Welcome to my GitHub Repository! Here, you'll discover a collection of projects 
 #### 💾 Programing Languages
 
 ![C Programming](https://img.shields.io/badge/C%20Programming-blue?style=for-the-badge&logo=C&logoColor=white)
-![C Plus Plus](https://img.shields.io/badge/C%2B%2B%20Programming-0000b3?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/C%23%20Programming-purple?style=for-the-badge&logo=C%23&logoColor=white)
-
 ![Java](https://img.shields.io/badge/Java-e60000?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/BASH-grey?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=amazondocumentdb&logoColor=white)
-![Static Badge](https://img.shields.io/badge/LATEX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Latex](https://img.shields.io/badge/LATEX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 #### ⚙️ Tools
 
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Static Badge](https://img.shields.io/badge/ANSIBLE-black?style=for-the-badge&logo=Ansible&logoColor=white)
-![Static Badge](https://img.shields.io/badge/SLACK-4A154B?style=for-the-badge&logo=Slack)
+![Ansible](https://img.shields.io/badge/ANSIBLE-black?style=for-the-badge&logo=Ansible&logoColor=white)
 
-![Static Badge](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git)
-![Static Badge](https://img.shields.io/badge/GITHUB-6e5494?style=for-the-badge&logo=github)
-![Static Badge](https://img.shields.io/badge/JENKINS-335061?style=for-the-badge&logo=jenkins&logoColor=white)
-![Static Badge](https://img.shields.io/badge/AMAZON%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![Static Badge](https://img.shields.io/badge/LINUX%20OS-black?style=for-the-badge&logo=linux&logoColor=white)
-![Static Badge](https://img.shields.io/badge/VS%20CODE-0877B9?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Static Badge](https://img.shields.io/badge/ALACRITTY-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git)
+![Github](https://img.shields.io/badge/GITHUB-6e5494?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/LINUX%20OS-black?style=for-the-badge&logo=linux&logoColor=white)
 
 ### 💪 My hard skills
 

@@ -8,7 +8,7 @@ Welcome to my GitHub Repository! Here, you'll discover a collection of projects 
 
 ### 🔧 Programming languages and tools
 
-#### 💾 Programing Languages
+#### 💾 Programing and Scripting Languages
 
 ![C Programming](https://img.shields.io/badge/C%20Programming-blue?style=for-the-badge&logo=C&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/C%23%20Programming-purple?style=for-the-badge&logo=C%23&logoColor=white)

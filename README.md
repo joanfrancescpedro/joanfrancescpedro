@@ -33,11 +33,11 @@ Welcome to my GitHub Repository! Here, you'll discover a collection of projects 
 
 - Infrastructure as Code (IaC) and Configuration Management
 - Continuous Integration and Continuous Delivery (CI/CD) Pipelines
-- Cloud Services and Architecture (AWS)
+- Cloud Services and Architecture (AWS, GCP)
 - Containerization and Orchestration (Docker, Kubernetes)
-- Scripting and Automation (Bash)
+- Scripting and Automation (Bash, Python)
 - Version Control Systems (Git)
-- Database Management and Deployment (SQL/NoSQL)
+- Database Management and Deployment (SQL, NoSQL)
 
 ### ☁️ My soft skills
 
